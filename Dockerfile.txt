@@ -9,7 +9,7 @@ WORKDIR /var/www/html
 RUN docker-php-ext-install pdo_mysql
 
 # Sao chep ma nguon website
-COPY src/ /var/www/html/
+COPY . /var/www/html/
 
 # Tao thu muc luu anh xe
 RUN mkdir -p /var/www/html/uploads/vehicles \
