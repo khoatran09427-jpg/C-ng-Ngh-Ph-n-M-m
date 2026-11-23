@@ -1,2 +1,0 @@
-CMakeFiles/VehicleRentalSystem.dir/VehicleRentalSystem_autogen/mocs_compilation.cpp.obj: \
- C:\Users\Gold\Downloads\VehicleRentalSystem_CPP\VehicleRentalSystem_CPP\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\VehicleRentalSystem_autogen\mocs_compilation.cpp
